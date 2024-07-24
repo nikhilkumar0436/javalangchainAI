@@ -1,0 +1,1 @@
+This is the basic project for exposing the api using lanchain and openai keys.
